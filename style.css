@@ -112,7 +112,7 @@ q {
   /* margin-left: 25vb; */
   /* margin-top: 5vh; */
   border-radius: 30px;
-  box-shadow: 0 0 50px rgb(121, 208, 235), 0 0 100px rgb(121, 208, 235);
+  box-shadow: 5px 10px 20px #361e04;
 }
 
 .about {
@@ -266,7 +266,8 @@ h2 {
 hr {
   height: 200px;
   background-color: aquamarine;
-  background-image: src= "social";
+  border: none;
+  /* background-image: src= "social"; */
 }
 
 @media only screen and (max-width: 1250px) {
