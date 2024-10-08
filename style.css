@@ -16,6 +16,12 @@ h1 {
     border-radius: 50px;
 }
 
+.logo {
+    width: 5%;
+    float: right;
+    margin-right: 15vb;
+}
+
 #img {
     /* width: 650px; */
     margin-top: 50px;
@@ -78,7 +84,7 @@ q {
 
 .about {
     width: 400px;
-    margin-left: 120vb;
+    margin-left: 130vb;
     margin-top: 9vh;
     font-size: 25px;
     line-height: 50px;
@@ -151,7 +157,7 @@ h2 {
 }
 
 .under1 {
-    margin-left: 39vh;
+    margin-left: 39vb;
     font-size: 25px;
 }
 
