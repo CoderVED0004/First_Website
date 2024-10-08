@@ -35,7 +35,7 @@ h1 {
   font-family: "Merriweather", serif;
   font-weight: 400;
   font-style: normal;
-  letter-spacing: 2px;
+  /* letter-spacing: 2px; */
   font-size: 50px;
   text-align: center;
   /* text-decoration: underline; */
@@ -260,9 +260,7 @@ h2 {
   font-size: 25px;
   border-radius: 15px;
   width: 30%;
-}
-.con b{
-    text-wrap: wrap;
+  word-break: break-all;
 }
 
 hr {
